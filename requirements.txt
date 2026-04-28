@@ -1,2 +1,7 @@
-numpy
 pandas
+numpy
+matplotlib
+seaborn
+scipy
+plotly
+streamlit==1.28.2
